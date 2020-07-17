@@ -1,0 +1,7 @@
+[28-Feb-2015 21:58:42 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
+[28-Feb-2015 21:58:50 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
+[28-Feb-2015 21:58:59 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
+[28-Feb-2015 21:59:10 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
+[28-Feb-2015 21:59:31 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
+[28-Feb-2015 21:59:37 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
+[28-Feb-2015 21:59:43 Europe/Berlin] PHP Fatal error:  Call to undefined function get_header() in /home/stravela/public_html/template/catch-base/index.php on line 15
